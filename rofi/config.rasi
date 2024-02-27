@@ -1,0 +1,10 @@
+/* Dark theme. */
+@import "~/.cache/wal/colors-rofi-dark"
+
+window {
+    height: 100%; 
+    width: 30em;
+    location: west;
+    anchor: west;
+    border: 0px 2px 0px 0px;
+}
